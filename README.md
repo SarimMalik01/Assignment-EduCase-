@@ -2,6 +2,8 @@
 
 This project is built using **React** and **Vite**, providing a minimal setup with HMR (Hot Module Replacement) and ESLint rules for code quality.
 
+You can view the hosted project here: **[Live Website](https://assignmenteducasepopx.netlify.app/)**
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
@@ -11,7 +13,7 @@ Currently, two official plugins are available:
 
 ## Assignment Details
 
-This project was an **assignment** by EduCase India where I was tasked with:
+This project was an **assignment** by **EduCase India** where I was tasked with:
 
 - Creating a **4-page website** based on a **Figma design**.
 - Ensuring the website is **mobile responsive** and works across different device sizes.
